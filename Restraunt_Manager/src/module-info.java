@@ -1,0 +1,2 @@
+module restraunt_manager {
+}
